@@ -1,0 +1,32 @@
+Commits    Contributors 
+--------------------------
+  3312	Jérôme Kowalczyk
+   350	Matthieu FAURE
+   158	Fabrice Gangler
+    64	lingua
+    52	neyo2010
+    51	sofien-hamdi
+    31	tellouze
+    25	elhamdouni
+    25	medsob
+    23	ioulachbar
+    22	Régis Lapeze
+    17	diamamp
+    15	Lalaina Ralambomanana
+     8	François Poyer
+     7	Arbab Nazar
+     5	sondes22
+     5	wellcom
+     4	KEBRI Mustapha
+     3	Toufik ELLOUZE
+     3	aouchani
+     3	kaho
+     2	Anthony
+     2	Baptiste Le Bail
+     1	Dougal Matthews
+     1	Marc Laporte
+     1	Mark Sadecki
+     1	Mustapha KEBRI
+     1	arbabnazar
+     1	halna
+
